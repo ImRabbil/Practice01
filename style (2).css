@@ -1,0 +1,49 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.a{
+	display: flex;
+	text-decoration: none;
+	background-color: ;
+	border: 1px solid blue;
+	font-weight: bold;
+	
+	
+
+}
+.A{
+	width: 25%;
+	height: 40px;
+	border: 2px solid blue;
+	text-align: center;
+
+
+}
+.B{
+	width: 25%;
+	height: 40px;
+	border: 2px solid blue;
+	text-align: center;
+
+
+}
+.C{
+	width: 25%;
+	height: 40px;
+	border: 2px solid blue;
+	text-align: center;
+
+
+}
+.D{
+	width: 25%;
+	height: 40px;
+	border: 2px solid blue;
+	text-align: center;
+
+
+}
+.b{
+	background-image: url('sakil.jpg');
+}
